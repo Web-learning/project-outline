@@ -1,9 +1,9 @@
-Idea Collector
+Idea Descriptor
 ==============
 
 
-Say you just had a new idea for a project you think would be cool.
-The script below will ask you some hard questions so that you can jot down your idea quickly.
+Say you want to explain a cool project.
+The script below will ask you some questions so that you can jot down your idea quickly.
 Don't worry about me stealing your ideas: everything is saved to ``localStorage``.
 
 
